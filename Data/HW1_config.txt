@@ -1,0 +1,11 @@
+10
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
+3 moon_64.pgm moon_64_average.txt moon_64_brightest_3.txt
